@@ -1,2 +1,2 @@
 # cayc_egr
-CAYC Engine EGR
+CAYC engine EGR (exhaust gas recirculation) with printed circuit board schematic and components
